@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 onething1/wxedge:latest
 python:alpine3.19
+ghcr.io/open-webui/open-webui:main
