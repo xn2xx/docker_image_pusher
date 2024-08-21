@@ -7,3 +7,4 @@ xhofe/alist:latest
 onething1/wxedge:latest
 python:alpine3.19
 ghcr.io/open-webui/open-webui:main
+justsong/one-api:latest
