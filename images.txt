@@ -9,3 +9,4 @@ ghcr.io/open-webui/open-webui:main
 justsong/one-api:latest
 xiangfa/talk-with-gemini
 dreamacro/clash
+mzz2017/v2raya
